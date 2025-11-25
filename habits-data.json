@@ -1,0 +1,28 @@
+{
+  "user": {
+    "name": "dimas",
+    "age": "30",
+    "joinDate": "2025-11-25T12:39:08.466Z",
+    "totalCompletions": 1
+  },
+  "habits": [
+    {
+      "id": 1,
+      "name": "belajar coding",
+      "targetFrequency": 7,
+      "completions": [],
+      "createdAt": "2025-11-25T12:39:53.527Z",
+      "reminderCount": 3
+    },
+    {
+      "id": 2,
+      "name": "minum kopi",
+      "targetFrequency": 1,
+      "completions": [
+        "2025-11-25T12:40:46.181Z"
+      ],
+      "createdAt": "2025-11-25T12:40:33.475Z",
+      "reminderCount": 1
+    }
+  ]
+}
